@@ -1,2 +1,4 @@
-package tablo;public class length {
+package tablo;
+
+public class length {
 }

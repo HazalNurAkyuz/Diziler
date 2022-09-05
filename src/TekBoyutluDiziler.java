@@ -1,4 +1,4 @@
-public class Main {
+public class TekBoyutluDiziler {
     public static void main(String[] args) {
         // Array
         // VeriTipi diziAdı[] = new VeriTipi[elemanSayisi];
